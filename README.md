@@ -3,7 +3,7 @@
 
 ## :zzz: I'm not working at the moment
 <p align="center">
-<img src="https://tenor.com/3Kua.gif">
+<img width="470" src="https://tenor.com/3Kua.gif">
 </p>
 Olha só... eu não estou trabalhando no momento, então se você gostou do meu perfil pode entrar em contato comigo!
 
