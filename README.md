@@ -33,6 +33,15 @@ Eu também tenho um profile in Instagram, mas as postagens que eu fiz lá é mai
 <a href="https://instagram.com/priza.tech" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/channel/UCwipqvVRQ0s1AR0DDCNF6KQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
+
+## :bar_chart: Statistics
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhamiltonjunior&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhamiltonjunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ## ⚡ Fun fact or not so much
 \
 Se você estiver construindo um projeto open source eu fico feliz em te ajudar\
