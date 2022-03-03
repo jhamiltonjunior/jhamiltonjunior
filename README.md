@@ -3,18 +3,19 @@
 
 ## :zzz: I'm not working at the moment
 <p align="center">
-<img width="470" src="./new-game-ahagon-umiko-programming.gif">
+<img src="./new-game-ahagon-umiko-programming.gif">
 </p>
 Olha só... eu não estou trabalhando no momento, então se você gostou do meu perfil pode entrar em contato comigo!
 
 ## :school: I'm currently learning
-
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" height="60" />
+</div>
 
 ## :sunglasses: I already have strong knowledge
-
+<div align="center"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" width="60" height="60" />
-
+</div>
 ## :muscle: I’m looking to collaborate on
 
 Eu estou vendo com uns rapazes aqui para colaborar com um projeto bem bacana que eles estão desenvolvendo \
