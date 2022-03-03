@@ -1,9 +1,29 @@
 # Hi, I'm José Hamilton Santos Júnior!
 ## Welcome to my GitHub profile 👋
 
-## I'm not working at the moment
+## :zzz: I'm not working at the moment
 \
-Hey, eu não estou trabalhando no momento!
+Olha só... eu não estou trabalhando no momento, então se você gostou do meu perfil pode entrar em contato comigo!
+
+## I'm currently learning
+\
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+
+## I already have strong knowledge
+\
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" />
+
+## :muscle: I’m looking to collaborate on
 
 ## 📫 How to reach me
 \
@@ -24,11 +44,3 @@ Porque isso também vai me ajudar a crescer profissionalmente!\
 \
 Então não perde tempo e entra em contato comigo!!!
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--  ...
-- 📫 How to reach me: ...
--->
