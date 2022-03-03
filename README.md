@@ -22,7 +22,7 @@ O repositório se encotra aqui: https://github.com/Programeiros/AnimiFun
 ## 📫 How to reach me
 \
 Caso queira saber mais sobre mim (ou quem sabe me contratar hehehe)\
-Veja o meu LinkedIn:
+Veja o meu LinkedIn: \
 <a href="https://www.linkedin.com/in/jhamiltonjunior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 \
 Pode me chamar no WhatsApp: +55 (75) 9 8184-9068\
