@@ -5,11 +5,10 @@
 <p align="center">
 <img width="350" src="./new-game-ahagon-umiko-programming.gif">
 </p>
-Olha só... eu não estou trabalhando no momento, então se você gostou do meu perfil pode entrar em contato comigo! \
+Olha só... eu não estou trabalhando no momento, então se você gostou do meu perfil pode entrar em contato comigo!\
+No momento estou praticando bastante e isso pode ser chamado de trabalho né?! hehe\
 \
-No momento estou praticando bastante e isso pode ser chamado de trabalho né?! hehe \
-\
-Eu estou refazendo em Golang um projeto que eu tinha construido em NodeJS.
+Eu estou refazendo em Golang um projeto que eu tinha construido em NodeJS.\
 Veja: https://github.com/jhamiltonjunior/prize-tech-backend
 
 ## :school: I'm currently learning
