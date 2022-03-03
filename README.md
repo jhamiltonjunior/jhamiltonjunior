@@ -15,6 +15,10 @@ Olha só... eu não estou trabalhando no momento, então se você gostou do meu 
 
 ## :muscle: I’m looking to collaborate on
 
+Eu estou vendo com uns rapazes aqui para colaborar com um projeto bem bacana que eles estão desenvolvendo \
+Trata-se de um site para sejerir animes \
+O repositório se encotra aqui: https://github.com/Programeiros/AnimiFun
+
 ## 📫 How to reach me
 \
 Caso queira saber mais sobre mim (ou quem sabe me contratar hehehe)\
