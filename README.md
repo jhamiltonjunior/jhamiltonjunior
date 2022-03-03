@@ -3,7 +3,7 @@
 
 ## :zzz: I'm not working at the moment
 <p align="center">
-<img src="./new-game-ahagon-umiko-programming.gif">
+<img width="350" src="./new-game-ahagon-umiko-programming.gif">
 </p>
 Olha só... eu não estou trabalhando no momento, então se você gostou do meu perfil pode entrar em contato comigo!
 
