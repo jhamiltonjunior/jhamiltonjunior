@@ -21,11 +21,10 @@ Veja: https://github.com/jhamiltonjunior/blog-template-backend
 <div align="center"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" width="60" height="60" />
 </div>
-## :muscle: I’m looking to collaborate on
 
-Eu estou vendo com uns rapazes aqui para colaborar com um projeto bem bacana que eles estão desenvolvendo \
-Trata-se de um site para sejerir animes \
-O repositório se encotra aqui: https://github.com/Programeiros/AnimiFun
+## 💪 I’m looking to collaborate on
+
+Entre em contato via [LinkedIn](https://www.linkedin.com/in/jhamiltonjunior).
 
 ## 📫 How to reach me
 \
