@@ -26,6 +26,10 @@ Veja: https://github.com/jhamiltonjunior/blog-template-backend
 
 Entre em contato via [LinkedIn](https://www.linkedin.com/in/jhamiltonjunior).
 
+Entre em contato via [E-mail](mailto:contact@hamiltonjr.dev).
+
+Ou se preferir copiar: contact@hamiltonjr.dev, jasehamiltonsantosjunior@gmail.com.
+
 ## 📫 How to reach me
 \
 Caso queira saber mais sobre mim (ou quem sabe me contratar hehehe)\
