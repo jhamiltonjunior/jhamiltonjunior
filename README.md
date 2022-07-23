@@ -9,8 +9,8 @@
 Olha só... eu não estou trabalhando no momento, então se você gostou do meu perfil pode entrar em contato comigo!\
 No momento estou praticando bastante e isso pode ser chamado de trabalho né?! hehe\
 \
-Eu estou refazendo em Golang um projeto que eu tinha construido em NodeJS.\
-Veja: https://github.com/jhamiltonjunior/blog-template-backend
+Eu estou criand um blog em NodeJS, a ideia é que seja um microserviço.\
+Veja: https://github.com/jhamiltonjunior/blog-users
 
 ## :school: I'm currently learning
 <div align="center">
