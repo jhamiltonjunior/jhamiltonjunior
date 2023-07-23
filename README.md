@@ -1,18 +1,17 @@
-# Hi, I'm José Hamilton Santos Júnior!
+# Ola, Eu me chamo José Hamilton Santos Júnior!
 ## Welcome to my GitHub profile 👋
 
-## :zzz: I'm not working at the moment
+## 👨‍💼 No momento estou estagiando como Analista de Sistemas
 <p align="center">
 <img width="350" src="./new-game-ahagon-umiko-programming.gif">
 </p>
 
-Olha só... eu não estou trabalhando no momento, então se você gostou do meu perfil pode entrar em contato comigo!\
-No momento estou praticando bastante e isso pode ser chamado de trabalho né?! hehe\
-\
-Eu estou criand um blog em NodeJS, a ideia é que seja um microserviço.\
+Voce pode ver um micro service para um blog em NodeJS, é apenas uma parte dele.\
 Veja: https://github.com/jhamiltonjunior/blog-users
 
-## :school: I'm currently learning
+No momento estou estudadno PHP e tudo que faça sentido para o estágio que estou execendo
+
+## :school: O que eu Estou Estudando
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" height="60" />
 </div>
