@@ -6,7 +6,7 @@
 <img width="350" src="./new-game-ahagon-umiko-programming.gif">
 </p>
 
-Voce pode ver um micro service para um blog em NodeJS, é apenas uma parte dele.\
+Você pode ver um micro service para um blog em NodeJS, é apenas uma parte dele.\
 Veja: https://github.com/jhamiltonjunior/blog-users
 
 No momento estou estudadno PHP e tudo que faça sentido para o estágio que estou execendo
@@ -16,12 +16,12 @@ No momento estou estudadno PHP e tudo que faça sentido para o estágio que esto
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" height="60" />
 </div>
 
-## :sunglasses: I already have strong knowledge
+## :sunglasses: O que eu já tenho um bom conhecimento
 <div align="center"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" width="60" height="60" />
 </div>
 
-## 💪 I’m looking to collaborate on
+## 💪 estou querendo colaborar
 
 Entre em contato via [LinkedIn](https://www.linkedin.com/in/jhamiltonjunior).
 
@@ -29,18 +29,16 @@ Entre em contato via [E-mail](mailto:contact@hamiltonjr.dev).
 
 Ou se preferir copiar: contact@hamiltonjr.dev, jasehamiltonsantosjunior@gmail.com.
 
-## 📫 How to reach me
+## 📫 Como chegar até mim
 \
-Caso queira saber mais sobre mim (ou quem sabe me contratar hehehe)\
+Caso queira saber mais sobre mim\
 Veja o meu LinkedIn lá eu compartilho mais coisas voltada a programação\
 \
 Pode me chamar no WhatsApp: +55 (75) 9 8184-9068\
 \
-Eu também tenho um profile in Instagram, mas as postagens que eu fiz lá é mais voltada a compartilhar o meu conhecimento \
 <div>
 <a href="https://www.linkedin.com/in/jhamiltonjunior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:josehamiltonsantosjunior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/hamiltonjr.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/channel/UCwipqvVRQ0s1AR0DDCNF6KQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
