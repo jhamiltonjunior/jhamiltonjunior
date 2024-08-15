@@ -25,9 +25,9 @@ No momento estou estudadno PHP e tudo que faça sentido para o estágio que esto
 
 Entre em contato via [LinkedIn](https://www.linkedin.com/in/jhamiltonjunior).
 
-Entre em contato via [E-mail](mailto:contact@hamiltonjr.dev).
+Entre em contato via [E-mail](mailto:hamiltonjr.dev).
 
-Ou se preferir copiar: contact@hamiltonjr.dev, jasehamiltonsantosjunior@gmail.com.
+Ou se preferir copiar: hamiltonjr.dev.
 
 ## 📫 Como chegar até mim
 \
