@@ -1,7 +1,7 @@
 # Ola, Eu me chamo José Hamilton Santos Júnior!
 ## Welcome to my GitHub profile 👋
 
-## 👨‍💼 No momento estou estagiando como Analista de Sistemas
+## 👨‍💼 No momento estou estagiando como Desenvolvedor Web
 <p align="center">
 <img width="350" src="./new-game-ahagon-umiko-programming.gif">
 </p>
